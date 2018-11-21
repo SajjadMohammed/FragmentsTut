@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentsTut</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello I am a TextView from fragment</string>
+    <string name="click_me">Click Me!</string>
+    <string name="changed_text">Hi I am changed from button in fragment</string>
+</resources>
